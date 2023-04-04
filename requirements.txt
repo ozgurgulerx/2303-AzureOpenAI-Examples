@@ -1,3 +1,0 @@
-paddlehub
-Pillow
-six
